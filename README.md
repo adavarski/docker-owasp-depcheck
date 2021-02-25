@@ -1,4 +1,4 @@
-### Simple script ideal for integration into a DevSecOps J.Pipelines, based on [Docker dependency-check image](https://hub.docker.com/r/owasp/dependency-check)
+### Simple script ideal for integration into a DevSecOps J.Pipelines
 
 ### OWASP Dependency-Check
 
@@ -15,4 +15,4 @@ PROJECT_NAME=foo owasp-check.sh
 ```
 #### DevSecOps J.Pipeline example: [Jenkinsfile](https://github.com/adavarski/owasp-docker-depcheck/blob/master/Jenkinsfile-PROJECT-OWASP)
 
-Simple script ideal for integration into a DevSecOps J.Pipelines:
+Note: Script is based on [Docker dependency-check image](https://hub.docker.com/r/owasp/dependency-check)
