@@ -1,3 +1,5 @@
+### Simple script ideal for integration into a DevSecOps J.Pipelines
+
 ### OWASP Dependency-Check
 
 OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
