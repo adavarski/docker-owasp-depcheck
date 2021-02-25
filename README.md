@@ -1,4 +1,4 @@
-### Simple script ideal for integration into a DevSecOps J.Pipelines
+### Simple script ideal for integration into a DevSecOps J.Pipelines, based on [Docker dependency-check image](https://hub.docker.com/r/owasp/dependency-check)
 
 ### OWASP Dependency-Check
 
