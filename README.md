@@ -1,4 +1,4 @@
-### Simple script ideal for integration into a DevSecOps J.Pipelines
+### Simple script ideal for integration into a DevSecOps pipelines
 
 #### OWASP Dependency-Check
 
