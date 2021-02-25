@@ -9,3 +9,4 @@ In the following example it is assumed that the source to be checked is in the c
 ```
 PROJECT_NAME=foo owasp-check.sh
 ```
+# DevSecOps J.pipeline example: [Jenkinsfile](https://github.com/adavarski/owasp-docker-depcheck/blob/master/Jenkinsfile-PROJECT-OWASP)
