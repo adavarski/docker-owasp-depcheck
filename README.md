@@ -1,10 +1,12 @@
 ### Simple script ideal for integration into a DevSecOps J.Pipelines
 
-### OWASP Dependency-Check
+#### OWASP Dependency-Check
 
 OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 
 #### OWASP Dependency-Check script for DevSecOps pipelines
+
+Script is based on [Docker dependency-check image](https://hub.docker.com/r/owasp/dependency-check)
 
 #### Usage
 
@@ -15,4 +17,3 @@ PROJECT_NAME=foo owasp-check.sh
 ```
 #### DevSecOps J.Pipeline example: [Jenkinsfile](https://github.com/adavarski/owasp-docker-depcheck/blob/master/Jenkinsfile-PROJECT-OWASP)
 
-Note: Script is based on [Docker dependency-check image](https://hub.docker.com/r/owasp/dependency-check)
